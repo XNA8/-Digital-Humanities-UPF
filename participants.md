@@ -4,8 +4,8 @@
 * Simone Ventura
 * Celine Kerfant, Cel31, archaeobotany
 
-### Add your Name, GitHub Name, Discipline
-*Xavier
+### Add your name, GitHub Name, Discipline
+*Xavier, XNA8, Literature
 *
 *
 *
